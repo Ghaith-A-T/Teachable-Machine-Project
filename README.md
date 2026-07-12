@@ -39,6 +39,10 @@ This project demonstrates an image recognition model created using **Google Teac
 ## Results
 The trained model successfully classifies input images into the trained classes and displays the predicted label along with the confidence percentage.
 
+## Output Screenshot
+
+![Prediction Result](output.png)
+
 ## Author
 **Ghaith**  
 Information Technology Student  

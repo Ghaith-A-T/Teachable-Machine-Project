@@ -24,7 +24,7 @@ This project demonstrates an image recognition model created using **Google Teac
 ```
 ├── keras_model/          # Exported TensorFlow (Keras) model
 ├── labels.txt            # Class labels
-├── predict.py            # Python script for image prediction
+├── Untitled2.py            # Python script for image prediction
 ├── output.png            # Screenshot of prediction result
 └── README.md             # Project documentation
 ```
